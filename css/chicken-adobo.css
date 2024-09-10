@@ -3,6 +3,7 @@ body {
   text-align: center;
 }
 
+.ingredients,
 .steps {
   display: inline-block;
   text-align: left;
