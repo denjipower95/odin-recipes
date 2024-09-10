@@ -3,6 +3,10 @@ body {
   text-align: center;
 }
 
+ul {
+  padding-left: 0;
+}
+
 ul li {
   list-style-type: none;
   padding-left: 0;
