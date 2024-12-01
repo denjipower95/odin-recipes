@@ -7,3 +7,8 @@
   color: #000000;
   text-decoration: none;
 }
+
+img {
+  height: auto;
+  width: 500px;
+}
