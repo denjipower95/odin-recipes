@@ -3,6 +3,10 @@
   background-color: #ede8f5;
 }
 
+.title {
+  text-align: center;
+}
+
 .recipe {
   color: #000000;
   text-decoration: none;
