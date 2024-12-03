@@ -6,6 +6,8 @@
 .recipe {
   color: #000000;
   text-decoration: none;
+  display: block;
+  text-align: center;
 }
 
 img {
